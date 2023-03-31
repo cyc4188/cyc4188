@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyc4188&layout=compact&langs_count=8&theme=tokyonight)
+[![Cyc's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cyc4188&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/cyc4188)
