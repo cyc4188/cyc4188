@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🏫 I'm a Undergraduate Student in SYSU, marjored in computer science.
+- 🌱 I’m currently learning game development, web application and so on.
+- 😼 I have learned C++, Rust, Golang, TS.
+- 📫 How to reach me: https://t.me/cychester
 <!--
 **cyc4188/cyc4188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
