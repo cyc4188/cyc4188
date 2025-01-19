@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏫 I'm a Undergraduate Student in SYSU, marjored in computer science.
+- 🏫 I'm a graduate Student in SYSU, marjored in computer science. Currently working as a Quantitative Developer.
 - 🌱 I’m currently learning game development, web application and so on.
 - 😼 I have learned C++, Rust, Golang, TS.
 - 📫 How to reach me: https://t.me/cychester
